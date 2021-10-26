@@ -48,6 +48,10 @@
 
 <br><br>
 
+![Snake animation](https://github.com/inando85/inando85/blob/output/github-contribution-grid-snake.svg)
+
+<br><br>
+
 ## 👨🏽‍🦲 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
