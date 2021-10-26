@@ -48,10 +48,6 @@
 
 <br><br>
 
-![Snake animation](https://github.com/inando85/inando85/blob/output/github-contribution-grid-snake.svg)
-
-<br><br>
-
 ## 👨🏽‍🦲 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
@@ -73,6 +69,8 @@
 </p>
 
 <img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=inando85&layout=wide&show_reply=off&show_retweet=off" />
+
+![Snake animation](https://github.com/inando85/inando85/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
