@@ -12,6 +12,8 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SASS, Vue.js and React.js**
 
+- 📫 Email - fernando.junior85@outlook.com
+
 <!-- - ⚡ Fun fact **Oneye 😜** -->
 
 <br><br>
