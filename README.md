@@ -2,7 +2,7 @@
 <h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Fernando Junior</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inando85&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Web Developer
+- 🔥 Frontend Developer
 
 - 🔭 I’m currently working on [Cyberlabs Group](https://cyberlabs.ai)
 
