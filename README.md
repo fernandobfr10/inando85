@@ -4,7 +4,7 @@
 
 - 🔥 Frontend Developer
 
-- 🔭 I’m currently working on [Cyberlabs Group](https://cyberlabs.ai)
+- 🔭 I’m currently working on [Cyberlabs Group](https://cyberlabs.ai) in [Argo Seguros](https://argoseguros.com.br/)
 
 <!-- - 👨‍💻 All of my projects are available at [maykbrito.dev](https://maykbrito.dev) -->
 
