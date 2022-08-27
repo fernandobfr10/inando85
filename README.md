@@ -10,7 +10,7 @@
 
 <!-- - ▶️ I regulary post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito) -->
 
-- 💬 Ask me about **HTML, CSS, SASS, JavaScript, TypeScript, Vue.js and React.js**
+- 💬 Ask me about **HTML, CSS, SASS, JavaScript, TypeScript, Vue.js, Nuxt, React.js and Next**
 
 - 📫 Email - fernando.junior85@outlook.com
 
