@@ -1,5 +1,11 @@
 Hi 👋 My name is Fernando Junior
-================================Front-end Developer-------------------* 🌍  I'm based in Rio de Janeiro, Brazil* ✉️  You can contact me at [fernando.junior85@outlook.com](mailto:fernando.junior85@outlook.com)* 🚀  I'm currently working on [Akad Seguros](http://akadseguros.com.br)
+================================
+Front-end Developer
+-------------------
+
+* 🌍  I'm based in Rio de Janeiro, Brazil
+* ✉️  You can contact me at [fernando.junior85@outlook.com](mailto:fernando.junior85@outlook.com)
+* 🚀  I'm currently working on [Akad Seguros](http://akadseguros.com.br)
 
 <a href="https://www.github.com/inando85" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/inando85?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
@@ -21,8 +27,6 @@ src="https://img.shields.io/github/followers/inando85?logo=github&style=for-the-
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/inando85/coffee-delivery" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=inando85&repo=coffee-delivery&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/inando85/dt-money" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=inando85&repo=dt-money&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/inando85/ignite-feed" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=inando85&repo=ignite-feed&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/inando85/todo-list-react-ts" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=inando85&repo=todo-list-react-ts&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
